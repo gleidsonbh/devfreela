@@ -1,0 +1,17 @@
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.deps.json
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.dll
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\ref\DevFreela.Application.dll
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.pdb
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.dll
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.pdb
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.AssemblyReference.cache
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfoInputs.cache
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfo.cs
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CopyComplete
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.dll
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\ref\DevFreela.Application.dll
+E:\Projetos\DiretoAoPonto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.pdb
